@@ -9,7 +9,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
     - [Mobile View](#mobile-view)
     - [Desktop View](#desktop-view)
-    - [Desktop View](#desktop-view-w-hover)
+    - [Desktop View w/ Hover](#desktop-view-w-hover)
   - [Built with](#built-with)
 - [Author](#author)
 
